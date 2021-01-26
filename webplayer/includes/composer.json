@@ -1,0 +1,7 @@
+{
+    "require": {
+        "aws/aws-sdk-php": "^3.52",
+        "phpmailer/phpmailer": "^6.0",
+        "paypal/rest-api-sdk-php": "dev-2.0-beta"
+    }
+}
