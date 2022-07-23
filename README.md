@@ -1,3 +1,3 @@
 # SpotMusic
  Music website student project. <br>
- Live Demo: https://spotmusic.prolingua.gr
+ Live Demo: <a href="https://spotmusic.prolingua.gr" target="_blank">https://spotmusic.prolingua.gr</a> 
